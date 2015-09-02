@@ -1,0 +1,1 @@
+ROPGuard has moved to GitHub. Get the latest source at https://github.com/ivanfratric/ropguard
